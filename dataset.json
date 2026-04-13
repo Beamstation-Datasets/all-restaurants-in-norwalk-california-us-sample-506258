@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Norwalk, California with a population of over 102k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Norwalk, California, US",
+  "export_job_id": "0e5b3667-8946-418c-8050-cf08576e0aa2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 506258,
+  "location_name": "Norwalk",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-norwalk-california-us-sample-506258",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/506258/beamstation_506258_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.74,
+  "sample_records": 15,
+  "sample_sha256": "2d9fdfea389f86c4d5ed9f5f6ed2861c34027fe3d7c7e0ddba06eff0a8bc78f5",
+  "sample_size_bytes": 75266,
+  "total_records": 154,
+  "updated_at": "2026-04-09T13:34:33.550264+00:00"
+}
