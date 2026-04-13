@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0e5b3667-8946-418c-8050-cf08576e0aa2",
+  "id_short": 506258,
+  "published_at": "2026-04-13T19:06:23Z",
+  "repo_name": "all-restaurants-in-norwalk-california-us-sample-506258",
+  "sample_asset_name": "beamstation_506258_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/506258/beamstation_506258_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 15,
+  "sample_sha256": "2d9fdfea389f86c4d5ed9f5f6ed2861c34027fe3d7c7e0ddba06eff0a8bc78f5",
+  "sample_size_bytes": 75266,
+  "total_records": 154
+}
