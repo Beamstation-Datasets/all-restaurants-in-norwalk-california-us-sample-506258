@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Norwalk, California with a population of over 102k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Norwalk, California, US",
-  "export_job_id": "00ed9c2e-6231-4a85-98d9-01bc7a9272ad",
+  "export_job_id": "d2a280a2-bfaa-4498-b07d-132a219abf9e",
   "github_org": "Beamstation-Datasets",
   "id_short": 506258,
   "location_name": "Norwalk",
   "location_type": "city",
   "repo_name": "all-restaurants-in-norwalk-california-us-sample-506258",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/506258/beamstation_506258_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.8,
+  "sample_pct": 9.93,
   "sample_records": 15,
-  "sample_sha256": "7a80dd460c1cb19d45a36b4fb2ac3a8f91643beec96cef54ee1587677576f046",
-  "sample_size_bytes": 75217,
-  "total_records": 153,
-  "updated_at": "2026-04-16T13:56:40.292077+00:00"
+  "sample_sha256": "5790a542cd6b2052ca393d8812eccb6e59c5c1c3772684166618373f0bf8caf5",
+  "sample_size_bytes": 72888,
+  "total_records": 151,
+  "updated_at": "2026-04-23T12:39:43.200880+00:00"
 }
