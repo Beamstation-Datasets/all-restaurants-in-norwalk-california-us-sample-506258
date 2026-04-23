@@ -9,9 +9,9 @@
 | Dataset ID | `506258` |
 | Location | Norwalk |
 | Category | Restaurants |
-| Full dataset size | 153 records |
-| Free sample size | 15 records (9.8%) |
-| Last export | 2026-04-16T13:56:40.292077+00:00 |
+| Full dataset size | 151 records |
+| Free sample size | 15 records (9.93%) |
+| Last export | 2026-04-23T12:39:43.200880+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-norwalk-california-us-sample-506258/releases/download/sample-latest/beamstation_506258_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
